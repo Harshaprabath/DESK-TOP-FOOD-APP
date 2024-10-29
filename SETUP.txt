@@ -1,0 +1,3 @@
+pip install eel
+
+run project - python main.py
